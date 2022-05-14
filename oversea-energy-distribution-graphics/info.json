@@ -1,0 +1,12 @@
+{
+  "name": "oversea-energy-distribution-graphics",
+  "version": "1.0.0",
+  "title": "Oversea Energy Distribution Graphics",
+  "author": "geewizwow",
+  "description": "Graphics for Oversea Energy Distribution.",
+  "dependencies": [
+    "base >= 1.1",
+    "~ oversea-energy-distribution >= 1.0.0"
+  ],
+  "factorio_version": "1.1"
+}
